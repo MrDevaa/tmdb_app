@@ -25,15 +25,4 @@
 1:36:12 Building and deploying a fully responsive Movix single page web application with React & Redux
 1:38:43 Setting up the background image for the web application
 1:43:10 Configuring API calls and handling background images in React & Redux application.
-1:45:35 Setting up URLs for background, poster, and profile images
-1:52:06 Creating a separate component for content centering
-1:54:29 Building the image component and handling the loading state
-2:00:42 Building and deploying a fully responsive Single Page Web Application with React & Redux using Movix
-2:03:09 Implementing screen size adjustment and background image
-2:08:55 Build and deploy a fully responsive single page web application with React & Redux
-2:12:54 Build and deploy a fully responsive single page web application using React and Redux.
-2:19:35 Build and deploy a Movix single page web application with React and Redux
-2:21:41 Creating HTML structure and navigation
-2:28:04 Implementing close button and burger menu for the Movix Single Page Web Application.
-2:31:57 Build a Fully Responsive Single Page Web Application with React & Redux
 
