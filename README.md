@@ -1,3 +1,6 @@
+// Readme à faire bientôt
+
+
 00:02 Build & Deploy Movix Single Page Web Application with React & Redux Full Course
 02:20 Learn how to build a single page web application with React & Redux.
 06:42 Build and deploy a responsive single page web application with React and Redux
