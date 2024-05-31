@@ -5,14 +5,6 @@
 // installation d'api from tmdb
 // 
 
-00:02 Build & Deploy Movix Single Page Web Application with React & Redux Full Course
-02:20 Learn how to build a single page web application with React & Redux.
-06:42 Build and deploy a responsive single page web application with React and Redux
-08:56 The video demonstrates building and deploying a React & Redux web application with lazy loading, infinite scrolling, and responsive design.
-13:43 Build and deploy a single-page web application with React and Redux.
-15:48 Introduction to pre-compilers and their advantages
-20:38 Setting up project and configuring API for Movix Single Page Web Application
-22:56 Building and deploying a single page web application with React and Redux
 29:20 Fixing errors and making API calls in React & Redux Single Page Web Application.
 31:49 Making API calls and handling environment variables
 36:46 Testing API call functionality with patch data
