@@ -1,5 +1,9 @@
 // Readme à faire bientôt
 
+//Septup project 
+//intallastion project
+// installation d'api from tmdb
+// 
 
 00:02 Build & Deploy Movix Single Page Web Application with React & Redux Full Course
 02:20 Learn how to build a single page web application with React & Redux.
