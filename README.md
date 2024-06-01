@@ -1,22 +1,33 @@
-// Readme à faire bientôt
+# TMDB APP
 
-//Septup project 
-//intallastion project
-// installation d'api from tmdb
-// 
+TMDB APP (The Movie Database App) est une application web développée en ReactJS, qui utilise l'API de TMDB pour afficher des informations sur les films. Ce projet utilise plusieurs bibliothèques pour améliorer l'expérience utilisateur et faciliter le développement.
 
-b Application.
-52:10 Creating actions and configuring them for API calls
-54:52 Building and deploying a fully responsive single page web application with React and Redux
-59:58 Dispatching actions and working with store values in React Redux
-1:02:24 Setting up optional chaining for URL values
-1:08:22 Building and deploying Movix Single Page Web Application with React & Redux
-1:12:15 Creating routes for the homepage
-1:18:25 Building and deploying a single-page web application using React & Redux
-1:22:20 Create a state to handle background image and value in the store
-1:28:44 Creating components and fetching data from API in a React & Redux single page web application
-1:31:53 Building and deploying Movix Single Page Web Application with React & Redux
-1:36:12 Building and deploying a fully responsive Movix single page web application with React & Redux
-1:38:43 Setting up the background image for the web application
-1:43:10 Configuring API calls and handling background images in React & Redux application.
+## Fonctionnalités
 
+- Affichage des films populaires et les mieux notés
+- Recherche de films et d'émissions de télévision
+- Détails des films et des émissions de télévision, y compris les bandes-annonces et les recommandations
+- Liste des genres et des acteurs principaux
+- Scrolling infini pour le chargement des films
+
+## Technologies Utilisées
+
+- **ReactJS** : Librairie JavaScript pour la construction des interfaces utilisateur
+- **Redux Toolkit** : Simplifie la gestion de l'état dans les applications React
+- **React Redux** : Intégration de Redux avec React
+- **Axios** : Client HTTP pour effectuer des requêtes vers l'API TMDB
+- **React Player** : Lecteur multimédia pour intégrer des vidéos
+- **Dayjs** : Librairie pour manipuler les dates
+- **React Router DOM** : Gestion des routes dans une application React
+- **React Icons** : Collection d'icônes pour React
+- **React Circular Progressbar** : Affichage de barres de progression circulaires
+- **React Infinite Scroll** : Implémentation du scrolling infini
+- **React Lazy Load Image** : Chargement paresseux des images
+
+## Installation
+
+1. Clonez le repository :
+
+   ```bash
+   git clone https://github.com/votre-utilisateur/tmdb-app.git
+   cd tmdb-app
