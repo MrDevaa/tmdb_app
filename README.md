@@ -4,14 +4,6 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
 
 ![Capture d'écran de l'application TMDB APP](./public/TMDB%20APP%20UI%20DESIGN/TMDB%20APP%20UI%20DESIGN.png)
 
-tmdb-app/
-├── public/
-│   └── TMDB APP UI DESIGN/
-│       └── TMDB APP UI DESIGN.png
-├── src/
-├── README.md
-└── ...
-
 
 <details>
   <summary>Table des Matières</summary>
