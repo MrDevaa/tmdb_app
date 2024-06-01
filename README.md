@@ -2,20 +2,22 @@
 
 TMDB APP (The Movie Database App) est une application web développée en ReactJS, qui utilise l'API de TMDB pour afficher des informations sur les films. Ce projet utilise plusieurs bibliothèques pour améliorer l'expérience utilisateur et faciliter le développement.
 
-## Table des Matières
+<details>
+  <summary>Table des Matières</summary>
 
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Configuration du Projet](#configuration-du-projet)
-  - [TMDB API Setup](#tmdb-api-setup)
-  - [Utilisation d'Axios pour l'API TMDB](#utilisation-daxios-pour-lapi-tmdb)
-  - [Setup de Redux Toolkit](#setup-de-redux-toolkit)
-  - [Setup de React Router](#setup-de-react-router)
-- [Développement Étape par Étape](#développement-étape-par-étape)
-- [Auteur](#auteur)
-- [Remerciements](#remerciements)
+  - [Fonctionnalités](#fonctionnalités)
+  - [Technologies Utilisées](#technologies-utilisées)
+  - [Installation](#installation)
+  - [Configuration du Projet](#configuration-du-projet)
+    - [TMDB API Setup](#tmdb-api-setup)
+    - [Utilisation d'Axios pour l'API TMDB](#utilisation-daxios-pour-lapi-tmdb)
+    - [Setup de Redux Toolkit](#setup-de-redux-toolkit)
+    - [Setup de React Router](#setup-de-react-router)
+  - [Développement Étape par Étape](#développement-étape-par-étape)
+  - [Auteur](#auteur)
+  - [Remerciements](#remerciements)
 
+</details>
 ## Fonctionnalités
 
 - Affichage des films populaires et les mieux notés
