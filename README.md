@@ -29,10 +29,20 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
 1. Clonez le repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/tmdb-app.git
+   git clone "https://github.com/MrDevaa/tmdb_app.git"
    cd tmdb-app
 
 2. Installez les dépendances :
-3. 
+    
      ```bash
    npm install
+
+3. Créez un fichier .env à la racine du projet et ajoutez votre clé API TMDB :
+    
+     ```bash
+   REACT_APP_TMDB_API_KEY=your_api_key_here
+
+4. Lancez l'application :
+    
+     ```bash
+   npm start
