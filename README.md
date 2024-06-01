@@ -5,12 +5,7 @@
 // installation d'api from tmdb
 // 
 
-29:20 Fixing errors and making API calls in React & Redux Single Page Web Application.
-31:49 Making API calls and handling environment variables
-36:46 Testing API call functionality with patch data
-39:12 Understanding the process and importance of API calls in React & Redux applications
-43:30 Install packages and set up the Redux store
-46:40 Create global state slices for each page in the Movix Single Page Web Application.
+b Application.
 52:10 Creating actions and configuring them for API calls
 54:52 Building and deploying a fully responsive single page web application with React and Redux
 59:58 Dispatching actions and working with store values in React Redux
