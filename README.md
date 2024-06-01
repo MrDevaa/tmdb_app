@@ -46,3 +46,40 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
     
      ```bash
    npm start
+
+# Configuration du Projet
+   ## TMDB API Setup
+   
+1.Inscrivez-vous sur TMDB et obtenez votre clé API.
+2.Ajoutez la clé API dans le fichier .env comme indiqué ci-dessus.
+
+# Utilisation d'Axios pour l'API TMDB
+- Configurez Axios pour interagir avec l'API TMDB et gérer les requêtes.
+# Setup de Redux Toolkit
+- Utilisez Redux Toolkit pour gérer l'état global de l'application.
+# Setup de React Router
+- Configurez React Router pour gérer les différentes routes de l'application, telles que la page d'accueil, les pages de recherche et les pages de détails.
+# Développement Étape par Étape
+1. Initialisation du Projet
+2. Configuration de l'API TMDB
+3. Configuration d'Axios pour les requêtes API
+4. Test des requêtes API
+5. Configuration de Redux Toolkit
+6. Configuration de React Router
+7. Création de la Page d'Accueil
+8. Section Hero Banner et son CSS
+Création des Composants de l'En-tête et du Pied de Page
+Section Carrousel
+Changement d'onglets
+Composant principal du Carrousel
+Composant de Notation
+Composant de Genres
+Fonctionnalité de Glissement du Carrousel
+Sections Populaires et Les Mieux Notées sur la Page d'Accueil
+Page de Détails
+Section Bannière de Détails
+Section des Acteurs Principaux
+Section des Vidéos
+Sections Similaires et Recommandations
+Page de Résultats de Recherche
+Page d'Exploration des Films et des Émissions de Télévision
