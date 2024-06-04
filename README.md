@@ -106,5 +106,3 @@ Page d'Exploration des Films et des Émissions de Télévision
 Remerciements
 Merci à TMDB pour leur API et les données fournies.
 
-Assurez-vous de bien échapper les espaces dans le chemin de l'image avec `%20`, car les espaces dans les URLs doivent être encodés.
-
