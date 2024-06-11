@@ -87,21 +87,21 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
 6. Configuration de React Router
 7. Création de la Page d'Accueil
 8. Section Hero Banner et son CSS
-9.Création des Composants de l'En-tête et du Pied de Page
-10.Section Carrousel
-11.Changement d'onglets
-12.Composant principal du Carrousel
-13.Composant de Notation
-14.Composant de Genres
-15.Fonctionnalité de Glissement du Carrousel
-16.Sections Populaires et Les Mieux Notées sur la Page d'Accueil
-17.Page de Détails
-18.Section Bannière de Détails
-19.Section des Acteurs Principaux
-20.Section des Vidéos
-21.Sections Similaires et Recommandations
-22.Page de Résultats de Recherche
-23.Page d'Exploration des Films et des Émissions de Télévision
+9. Création des Composants de l'En-tête et du Pied de Page
+10. Section Carrousel
+11. Changement d'onglets
+12. Composant principal du Carrousel
+13. Composant de Notation
+14. Composant de Genres
+15. Fonctionnalité de Glissement du Carrousel
+16. Sections Populaires et Les Mieux Notées sur la Page d'Accueil
+17. Page de Détails
+18. Section Bannière de Détails
+19. Section des Acteurs Principaux
+20. Section des Vidéos
+21. Sections Similaires et Recommandations
+22. Page de Résultats de Recherche
+23. Page d'Exploration des Films et des Émissions de Télévision
 
 # Remerciements
 Merci à TMDB pour leur API et les données fournies.
