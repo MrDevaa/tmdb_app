@@ -92,17 +92,17 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
 11.Changement d'onglets
 12.Composant principal du Carrousel
 13.Composant de Notation
-Composant de Genres
-Fonctionnalité de Glissement du Carrousel
-Sections Populaires et Les Mieux Notées sur la Page d'Accueil
-Page de Détails
-Section Bannière de Détails
-Section des Acteurs Principaux
-Section des Vidéos
-Sections Similaires et Recommandations
-Page de Résultats de Recherche
-Page d'Exploration des Films et des Émissions de Télévision
+14.Composant de Genres
+15.Fonctionnalité de Glissement du Carrousel
+16.Sections Populaires et Les Mieux Notées sur la Page d'Accueil
+17.Page de Détails
+18.Section Bannière de Détails
+19.Section des Acteurs Principaux
+20.Section des Vidéos
+21.Sections Similaires et Recommandations
+22.Page de Résultats de Recherche
+23.Page d'Exploration des Films et des Émissions de Télévision
 
-Remerciements
+# Remerciements
 Merci à TMDB pour leur API et les données fournies.
 
