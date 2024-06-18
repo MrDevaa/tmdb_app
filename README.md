@@ -82,27 +82,27 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
 # Développement Étape par Étape
 1. Initialisation du Projet
 2. Configuration de l'API TMDB
-3. Configuration d'Axios pour les requêtes API
-4. Test des requêtes API
-5. Configuration de Redux Toolkit
-6. Configuration de React Router
-7. Création de la Page d'Accueil
-8. Section Hero Banner et son CSS
-9. Création des Composants de l'En-tête et du Pied de Page
-10. Section Carrousel
-11. Changement d'onglets
-12. Composant principal du Carrousel
-13. Composant de Notation
-14. Composant de Genres
-15. Fonctionnalité de Glissement du Carrousel
-16. Sections Populaires et Les Mieux Notées sur la Page d'Accueil
-17. Page de Détails
-18. Section Bannière de Détails
-19. Section des Acteurs Principaux
-20. Section des Vidéos
-21. Sections Similaires et Recommandations
-22. Page de Résultats de Recherche
-23. Page d'Exploration des Films et des Émissions de Télévision
+- Configuration d'Axios pour les requêtes API
+- Test des requêtes API
+3. Configuration de Redux Toolkit
+4. Configuration de React Router
+5. Création de la Page d'Accueil
+- Section Hero Banner et son CSS
+6. Création des Composants de l'En-tête et du Pied de Page
+7. Section Carrousel
+- Changement d'onglets
+8. Composant principal du Carrousel
+- Composant de Notation
+9. Composant de Genres
+10. Fonctionnalité de Glissement du Carrousel
+11. Sections Populaires et Les Mieux Notées sur la Page d'Accueil
+12. Page de Détails
+- Section Bannière de Détails
+- Section des Acteurs Principaux
+- Section des Vidéos
+- Sections Similaires et Recommandations
+13. Page de Résultats de Recherche
+14. Page d'Exploration des Films et des Émissions de Télévision
 
 # Remerciements
 Merci à TMDB pour leur API et les données fournies.
