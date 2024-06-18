@@ -21,6 +21,7 @@ TMDB APP (The Movie Database App) est une application web développée en ReactJ
   - [Remerciements](#remerciements)
 
 </details>
+
 ## Fonctionnalités
 
 - Affichage des films populaires et les mieux notés
