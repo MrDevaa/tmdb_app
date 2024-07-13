@@ -7,7 +7,7 @@ site web :
 ![Capture d'écran de l'application TMDB APP](./public/TMDB%20APP%20UI%20DESIGN/TMDB%20APP%20UI%20DESIGN.png)
 
 
-<details>
+[(url)<details>
   <summary>Table des Matières</summary>
 
   - [Fonctionnalités](#fonctionnalités)
@@ -22,7 +22,7 @@ site web :
   - [Auteur](#auteur)
   - [Remerciements](#remerciements)
 
-</details>
+</details> ]
 
 ## Fonctionnalités
 
