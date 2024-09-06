@@ -3,9 +3,9 @@
 TMDB APP (The Movie Database App) est une application web développée en ReactJS, qui utilise l'API de TMDB pour afficher des informations sur les films. Ce projet utilise plusieurs bibliothèques pour améliorer l'expérience utilisateur et faciliter le développement.
 
 Thing to do for enhance: 
-Kanban board
-Test unitaire
-User Stories
+## Kanban board
+## Test unitaire
+## User Stories
 
 
 site web :
