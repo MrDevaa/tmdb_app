@@ -73,7 +73,7 @@ site web :
 4. Lancez l'application :
     
      ```bash
-   npm start
+   npm run dev
 
 # Configuration du Projet
    ## TMDB API Setup
